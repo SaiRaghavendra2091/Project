@@ -1,13 +1,14 @@
 {
   "files": {
-    "main.css": "/Project/static/css/main.964fdded.css",
-    "main.js": "/Project/static/js/main.90260422.js",
-    "index.html": "/Project/index.html",
-    "main.964fdded.css.map": "/Project/static/css/main.964fdded.css.map",
-    "main.90260422.js.map": "/Project/static/js/main.90260422.js.map"
+    "main.css": "/Project/life-cycle-react/static/css/main.964fdded.css",
+    "main.js": "/Project/life-cycle-react/static/js/main.28adfc3b.js",
+    "static/media/LifeCycle.png": "/Project/life-cycle-react/static/media/LifeCycle.ae979ea28de29172b6ee.png",
+    "index.html": "/Project/life-cycle-react/index.html",
+    "main.964fdded.css.map": "/Project/life-cycle-react/static/css/main.964fdded.css.map",
+    "main.28adfc3b.js.map": "/Project/life-cycle-react/static/js/main.28adfc3b.js.map"
   },
   "entrypoints": [
     "static/css/main.964fdded.css",
-    "static/js/main.90260422.js"
+    "static/js/main.28adfc3b.js"
   ]
 }
